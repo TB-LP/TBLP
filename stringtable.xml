@@ -48,7 +48,7 @@
     </Package>
     <Package name="Shop_Names">
         <Key ID="STR_Shops_C_Bruce">
-            <Original>ブルース洋服店</Original>
+            <Original>Bruce's Outback Outfits</Original>
             <Czech>Bruceovy Outback Oblečení</Czech>
             <French>Vêtements de Bruce</French>
             <Spanish>Tienda de Ropa</Spanish>
@@ -59,7 +59,7 @@
             <German>Bruce's Outback Outfits</German>
         </Key>
         <Key ID="STR_Shops_C_Police">
-            <Original>Altis警察用具店</Original>
+            <Original>Altis Police Department Shop</Original>
             <Czech>Altis policejní oddělení Shop</Czech>
             <French>Vêtements policiers</French>
             <Spanish>Tienda del Departamento de Policía</Spanish>
@@ -70,7 +70,7 @@
             <German>Altis Polizei Department Geschäft</German>
         </Key>
         <Key ID="STR_Shops_C_Rebel">
-            <Original>ムハンマド　ジハードショップ</Original>
+            <Original>Mohammed's Jihadi Shop</Original>
             <Czech>Mohamedův džihád Shop</Czech>
             <French>Vêtements rebelle</French>
             <Spanish>Tienda Jihadi de Mohamed</Spanish>
@@ -81,7 +81,7 @@
             <German>Mohammed's Ausrüstungen</German>
         </Key>
         <Key ID="STR_Shops_C_Diving">
-            <Original>スティーブ ダイビングショップ</Original>
+            <Original>Steve's Diving Shop</Original>
             <Czech>Steve je potápění obchod</Czech>
             <French>Vêtements de plongée de Steve</French>
             <Spanish>Tienda de Buceo</Spanish>
@@ -92,7 +92,7 @@
             <Polish>Sklep dla nurków</Polish>
         </Key>
         <Key ID="STR_Shops_C_Gun">
-            <Original>ビリージョークロッシング</Original>
+            <Original>Billy Joe's Clothing</Original>
             <Czech>Billy Joe oblečení</Czech>
             <Spanish>Tienda de Ropa de Billy Joe</Spanish>
             <Russian></Russian>
@@ -103,7 +103,7 @@
             <Polish>Billy Joe Odzież</Polish>
         </Key>
         <Key ID="STR_Shops_W_Gun">
-            <Original>ビリージョー銃砲店</Original>
+            <Original>Billy Joe's Firearms</Original>
             <Czech>Billy Joe Střelné zbraně</Czech>
             <Spanish>Tienda de Armas de Billy Joe</Spanish>
             <Russian></Russian>
@@ -114,7 +114,7 @@
             <Polish>Broń palna Billy Joe</Polish>
         </Key>
         <Key ID="STR_Shops_C_Kart">
-            <Original>ボビー レーシングギア</Original>
+            <Original>Bobby's Kart-Racing Outfits</Original>
             <Czech>Billy Joe Střelné zbraně</Czech>
             <French>Vêtements de kart</French>
             <Spanish>Tienda de Trajes de Carreras</Spanish>
@@ -125,7 +125,7 @@
             <Polish>Sklep Kartingowy</Polish>
         </Key>
         <Key ID="STR_Shops_Market">
-            <Original>Altis マーケット</Original>
+            <Original>Altis Market</Original>
             <Czech>Altis Market</Czech>
             <Spanish>Mercado de Altis</Spanish>
             <Russian></Russian>
@@ -136,7 +136,7 @@
             <Polish>Market Altis</Polish>
         </Key>
         <Key ID="STR_Shops_Rebel">
-            <Original>闇市場</Original>
+            <Original>Rebel Market</Original>
             <Czech>Rebel Market</Czech>
             <Spanish>Mercado Rebelde</Spanish>
             <Russian></Russian>
@@ -147,7 +147,7 @@
             <Polish>Market Rebeliantów</Polish>
         </Key>
         <Key ID="STR_Shops_Gang">
-            <Original>ギャングマーケット</Original>
+            <Original>Gang Market</Original>
             <Czech>gang Market</Czech>
             <Spanish>Mercado Pandillero</Spanish>
             <Russian></Russian>
@@ -158,7 +158,7 @@
             <Polish>Market Gangu</Polish>
         </Key>
         <Key ID="STR_Shops_C_Gang">
-            <Original>ギャング衣料店</Original>
+            <Original>Gang Clothing</Original>
             <Czech>gang Oblečení</Czech>
             <Spanish>Ropa Pandillera</Spanish>
             <Russian></Russian>
@@ -169,7 +169,7 @@
             <Polish>Gang Odzież</Polish>
         </Key>
         <Key ID="STR_Shops_Wongs">
-            <Original>ワンさんの食料店</Original>
+            <Original>Wong's Food Cart</Original>
             <Czech>Wongova Food košík</Czech>
             <Spanish>Kiosko de Wong</Spanish>
             <Russian></Russian>
@@ -180,7 +180,7 @@
             <Polish>Przysmaki Wonga</Polish>
         </Key>
         <Key ID="STR_Shops_Coffee">
-            <Original>ジョロスコーヒー</Original>
+            <Original>Gyro's Coffee</Original>
             <Czech>gyros Coffee</Czech>
             <Spanish>Cafetería de Gyro</Spanish>
             <Russian></Russian>
@@ -191,7 +191,7 @@
             <Polish>Kawiarnia</Polish>
         </Key>
         <Key ID="STR_Shops_DrugDealer">
-            <Original>トニック薬剤</Original>
+            <Original>Tonic's Narcotics</Original>
             <Czech>Tonic je narkotika</Czech>
             <Spanish>Narcotraficante</Spanish>
             <Russian></Russian>
@@ -202,7 +202,7 @@
             <Polish>Sprzedawca 'Trawy'</Polish>
         </Key>
         <Key ID="STR_Shops_Oil">
-            <Original>オイルトレーダー</Original>
+            <Original>Oil Trader</Original>
             <Czech>olej Trader</Czech>
             <Spanish>Comerciante de Petroleo</Spanish>
             <Russian></Russian>
@@ -213,7 +213,7 @@
             <Polish>Skup Ropy</Polish>
         </Key>
         <Key ID="STR_Shops_FishMarket">
-            <Original>地元の魚市場</Original>
+            <Original>Local Fish Market</Original>
             <Czech>Místní Fish Market</Czech>
             <Spanish>Mercado Local del Pescado</Spanish>
             <Russian></Russian>
@@ -224,7 +224,7 @@
             <Polish>Sklep Rybny</Polish>
         </Key>
         <Key ID="STR_Shops_Glass">
-            <Original>ガラストレーダー</Original>
+            <Original>Glass Trader</Original>
             <Czech>sklo Trader</Czech>
             <Spanish>Comerciante de Vidrio</Spanish>
             <Russian></Russian>
@@ -235,7 +235,7 @@
             <Polish>Skup Szkła</Polish>
         </Key>
         <Key ID="STR_Shops_Minerals">
-            <Original>Altis 工業トレーダー</Original>
+            <Original>Altis Industrial Trader</Original>
             <Czech>Altis Industrial Trader</Czech>
             <Spanish>Comerciante Industrial</Spanish>
             <Russian></Russian>
@@ -246,7 +246,7 @@
             <Polish>Skup materiałów przemysłowych</Polish>
         </Key>
         <Key ID="STR_Shops_Cop">
-            <Original>APD アイテムショップ</Original>
+            <Original>APD Item Shop</Original>
             <Czech>APD Item Shop</Czech>
             <Spanish>Equipamiento Policial</Spanish>
             <Russian></Russian>
@@ -936,7 +936,7 @@
     </Package>
     <Package name="ATM_Strings">
         <Key ID="STR_ATM_Title">
-            <Original>銀行口座管理</Original>
+            <Original>Bank Account Management</Original>
             <Czech>Vedení bankovního účtu</Czech>
             <Spanish>Cuenta Bancaria</Spanish>
             <Russian></Russian>
@@ -947,7 +947,7 @@
             <Polish>Bankomat Altis</Polish>
         </Key>
         <Key ID="STR_ATM_Withdraw">
-            <Original>出金</Original>
+            <Original>Withdraw</Original>
             <Czech>ustoupit</Czech>
             <Spanish>Retirar</Spanish>
             <Russian></Russian>
@@ -958,7 +958,7 @@
             <Polish>Wypłać</Polish>
         </Key>
         <Key ID="STR_ATM_Deposit">
-            <Original>入金</Original>
+            <Original>Deposit</Original>
             <Czech>Vklad</Czech>
             <Spanish>Depositar</Spanish>
             <Russian></Russian>
@@ -969,7 +969,7 @@
             <Polish>Deopozyt</Polish>
         </Key>
         <Key ID="STR_ATM_WithdrawGang">
-            <Original>出金: ギャング</Original>
+            <Original>Withdraw: Gang</Original>
             <Czech>Odstoupit: Gang</Czech>
             <French>Retirer: Gang</French>
             <Spanish>Retirar: Pandilla</Spanish>
@@ -980,7 +980,7 @@
             <German>Abheben: Gang</German>
         </Key>
         <Key ID="STR_ATM_DepositGang">
-            <Original>入金: ギャング</Original>
+            <Original>Deposit: Gang</Original>
             <Czech>Záloha: Gang</Czech>
             <French>Déposer: Gang</French>
             <Spanish>Depositar: Pandilla</Spanish>
@@ -991,7 +991,7 @@
             <German>Einzahlen: Gang</German>
         </Key>
         <Key ID="STR_ATM_Transfer">
-            <Original>送金</Original>
+            <Original>Transfer</Original>
             <Czech>Převod</Czech>
             <Spanish>Transferir</Spanish>
             <Russian></Russian>
@@ -1002,7 +1002,7 @@
             <Polish>Przelew</Polish>
         </Key>
         <Key ID="STR_ATM_GreaterThan">
-            <Original>一度に$ 999,999以上預金することはできません</Original>
+            <Original>You can't deposit more then $999,999 at a time</Original>
             <Czech>Nemůžete vložit více než 999.999 $ najednou</Czech>
             <Spanish>No puedes depositar mas de $999,999 a la vez</Spanish>
             <Russian></Russian>
@@ -1013,7 +1013,7 @@
             <Polish>Możesz jednorazowo zdeponować nie więcej niż $999,999 </Polish>
         </Key>
         <Key ID="STR_ATM_notnumeric">
-            <Original>入力された金額は数値ではありません</Original>
+            <Original>The amount entered isn't a numeric value.</Original>
             <Czech>Uvedená částka není číselná hodnota.</Czech>
             <Spanish>No escribistes un valor numérico.</Spanish>
             <Russian></Russian>
@@ -1024,7 +1024,7 @@
             <Polish>Wprwadzona wartość nie jest liczbą</Polish>
         </Key>
         <Key ID="STR_ATM_NoneSelected">
-            <Original>あなたは誰に転送するかを選択する必要があります</Original>
+            <Original>You need to select someone to transfer to</Original>
             <Czech>Je třeba vybrat někoho převést na</Czech>
             <Spanish>Debes seleccionar a quien transferirle el dinero</Spanish>
             <Russian></Russian>
@@ -1035,7 +1035,7 @@
             <Polish>Musisz wybrać odbiorcę przelewu</Polish>
         </Key>
         <Key ID="STR_ATM_DoesntExist">
-            <Original>選択したプレーヤーは存在しないようですか？</Original>
+            <Original>The player selected doesn't seem to exist?</Original>
             <Czech>Hráč vybraný Nezdá se, že neexistuje?</Czech>
             <French>Le joueur sélectionné ne semble pas exister</French>
             <Spanish>El jugador que seleccionastes no existe?</Spanish>
@@ -1046,7 +1046,7 @@
             <Polish>Wybrany gracz wydaje się nie występować w grze</Polish>
         </Key>
         <Key ID="STR_ATM_TransferMax">
-            <Original>$ 999,999以上は転送できません</Original>
+            <Original>You can't transfer more then $999,999</Original>
             <Czech>Nemůžete přenést více než 999.999 $</Czech>
             <Spanish>No puedes transferir más de $999,999</Spanish>
             <Russian></Russian>
@@ -1057,7 +1057,7 @@
             <Polish>Możesz jednorazowo przelać nie więcej niż $999,999</Polish>
         </Key>
         <Key ID="STR_ATM_NotEnoughFunds">
-            <Original>あなたの銀行口座にそれほど多くありません！</Original>
+            <Original>You don't have that much in your bank account!</Original>
             <Czech>Nemusíte to hodně na váš bankovní účet!</Czech>
             <Spanish>No tienes tanto dinero en tu cuenta de banco!</Spanish>
             <Russian></Russian>
@@ -1068,7 +1068,7 @@
             <Polish>Nie masz tyle środków na koncie!</Polish>
         </Key>
         <Key ID="STR_ATM_NotEnoughFundsG">
-            <Original>ギャングの銀行口座にそれほど多くはありません！</Original>
+            <Original>You don't have that much in your gang bank account!</Original>
             <Czech>Nemusíte to hodně ve svém gang bankovní účet!</Czech>
             <Spanish>No hay tanto dinero en la cuenta de tu pandilla!</Spanish>
             <Italian>Il conto della gang non ha abbastanza denaro!</Italian>
@@ -1079,7 +1079,7 @@
             <German>Ihr habt nicht genügend Geld auf dem Gangkonto!</German>
         </Key>
         <Key ID="STR_ATM_SentMoneyFail">
-            <Original>振込のために銀行口座に十分な資金がありません $%1 必要になるだろう $%2 税金として</Original>
+            <Original>You do not have enough money in your bank account, to transfer $%1 you will need $%2 as a tax fee.</Original>
             <Czech>Nemáte dostatek peněz na váš bankovní účet, převést $%1 budete potřebovat $%2 jako daňový poplatek.</Czech>
             <Spanish>No tienes el dinero suficiente, para transferir $%1 necesitaras $%2 para pagar como cuota.</Spanish>
             <Russian></Russian>
@@ -1300,7 +1300,7 @@
             <Polish>SMS do Wszyscy</Polish>
         </Key>
         <Key ID="STR_CELL_EMSRequest">
-            <Original>救急要請</Original>
+            <Original>Request EMS</Original>
             <Czech>žádost o EMS</Czech>
             <Spanish>Pedir Médico</Spanish>
             <Russian></Russian>

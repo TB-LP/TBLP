@@ -11,7 +11,7 @@
 class maverick_taxis_cfg {
 	class pricing {
 		pricePerKilometre 					= 500; // Dollars
-		basePrice							= 1000; // Price at which billing starts, required to call a taxi
+		basePrice							= 700; // Price at which billing starts, required to call a taxi
 		moneyHandVariable					= "life_cash";
 		moneyBankVariable					= "life_atmbank";
 		paymentSource						= "BOTH";
@@ -96,20 +96,20 @@ class maverick_taxis_cfg {
 		msgTaskDriverGoToDescriptionS =		"DESTINATION";
 		msgTaskDriverGoToDriverHUD =		"Move Here";
 
-		#define dialogCallTaxiTitle			"Taxi Service"
-		#define dialogCancelTaxi			"Cancel Taxi Request"
+		#define dialogCallTaxiTitle			"タクシーサービス"
+		#define dialogCancelTaxi			"タクシー要請をキャンセル"
 		#define dialogClose					"Close"
 		#define dialogTaxiMeter				"Taxi-Meter"
-		#define dialogTaxiFareList			"Available Taxi Calls"
-		#define dialogTaxiGoOnDuty			"Go On Duty"
-		#define dialogTaxiGoOffDuty			"Go Off Duty"
-		#define dialogTaxiAcceptCall		"Accept Selected Call"
-		#define dialogTaxiCancelCall		"Cancel Current Call"
-		#define dialogMenuCustomer			"Call A Taxi"
-		#define dialogMenuDriver			"Work as a driver"
-		#define dialogMenuSettings			"Settings"
-		#define dialogDestination			"Destination"
-		#define dialogHowToDestination		"Double-click a position on the map to mark it as your destination. If you already have a taxi driver coming to you, he will be notified of the updated position."
+		#define dialogTaxiFareList			"受諾待ちタクシーコール"
+		#define dialogTaxiGoOnDuty			"業務を開始"
+		#define dialogTaxiGoOffDuty			"業務を停止"
+		#define dialogTaxiAcceptCall		"選択した要請を承諾"
+		#define dialogTaxiCancelCall		"現在の要請をキャンセルする"
+		#define dialogMenuCustomer			"タクシーを呼ぶ"
+		#define dialogMenuDriver			"タクシードライバーとして働く"
+		#define dialogMenuSettings			"設定"
+		#define dialogDestination			"目的地"
+		#define dialogHowToDestination		"マップ上の位置をダブルクリックして目的地をマークします。既にタクシー運転手が来ている場合、更新された位置が通知されます"
 		#define dialogStatusTitle			"Call Status"
 		#define dialogStatusMarkedDest		"Destination Selected"
 		#define dialogStatusCreatedCall		"Taxi Call Created"
@@ -119,9 +119,9 @@ class maverick_taxis_cfg {
 		#define dialogSettingsCustomize		"Customize"
 		#define dialogSettingsReset			"Reset"
 		#define dialogDragMe				"Drag Me"
-		#define dialogFareSummaryTitle		"Fare Summary"
+		#define dialogFareSummaryTitle		"運賃概要"
 		#define dialogSummaryClosePromt		"[ALT]+[T] to close"
-		#define dialogAvaibleDrivers		"Available Drivers"
+		#define dialogAvaibleDrivers		"勤務中のドライバー"
 	};
 };
 

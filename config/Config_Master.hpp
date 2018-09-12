@@ -69,7 +69,7 @@ class Life_Settings {
 
     /* Fuel System Configurations */
     pump_service = true; //Allow users to use pump service on the map. Default = false
-    fuel_cost = 80; //Cost of fuel per liter at fuel stations (if not defined for the vehicle already).
+    fuel_cost = 135; //Cost of fuel per liter at fuel stations (if not defined for the vehicle already).
     service_chopper = 1000; //Cost to service chopper at chopper service station(Repair/Refuel).
     fuelCan_refuel = 250; //Cost to refuel an empty fuel canister at the fuel station pumps. (Be wary of your buy/sell prices on fuel cans to prevent exploits...)
 
@@ -109,8 +109,8 @@ class Life_Settings {
 
     /* Paycheck & Bank System Configurations */
     bank_cop = 7000; //Amount of cash in bank for new cops
-    bank_civ = 3000; //Amount of cash in bank for new civillians
-    bank_med = 6500; //Amount of cash in bank for new medics
+    bank_civ = 1000; //Amount of cash in bank for new civillians
+    bank_med = 2000; //Amount of cash in bank for new medics
 
     paycheck_cop = 500; //Payment for cops
     paycheck_civ = 350; //Payment for civillians

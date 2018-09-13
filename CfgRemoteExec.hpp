@@ -17,6 +17,7 @@ class CfgRemoteExec {
         jip = 1;
 #include "The-Programmer\theprogrammer_remoteExec_master.cpp" 
 #include "maverick\maverick_remoteExec_master.cpp"
+#include "Lega\Lega_RemoteExec.hpp"
         /* Client only functions */
         F(life_fnc_AAN,CLIENT)
         F(life_fnc_addVehicle2Chain,CLIENT)

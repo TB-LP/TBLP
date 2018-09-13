@@ -55,9 +55,9 @@ class Maverick_SpeedCameras {
 	
 		//Define the messages, which will be shown to the player, when he was driving too fast
 		msgSpeedCamera		   = "Speedcamera";
-		msgInfo                = "You have been driving %1 km/h to fast!";
-		msgRemoveLicense 	   = "Your %1 has been revoked!";
-		msgWantedAdd  		   = "A wanted record about you has been created!";
-		msgSpeedingFee         = "You have been fined with %1$ for speeding!";
+		msgInfo                = "制限速度を %1 km/h 超過しました!";
+		msgRemoveLicense 	   = "あなたの %1 が取り消されました!";
+		msgWantedAdd  		   = "あなたに犯罪記録が付きました!";
+		msgSpeedingFee         = "あなたはスピード違反のために %1$ の罰金を科されています!";
 	};
 };

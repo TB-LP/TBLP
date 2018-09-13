@@ -7025,6 +7025,17 @@
             <Portuguese>Licença de Motorista</Portuguese>
             <Polish>Prawo jazdy</Polish>
         </Key>
+        <Key ID="STR_License_taxidriver">
+            <Original>Taxi License</Original>
+            <Czech>Řidičský průkaz</Czech>
+            <Spanish>Licencia de Conducir</Spanish>
+            <Russian></Russian>
+            <German>Führerschein</German>
+            <French>Permis de Conduire</French>
+            <Italian>Licenza di Guida</Italian>
+            <Portuguese>Licença de Motorista</Portuguese>
+            <Polish>Prawo jazdy</Polish>
+        </Key>
         <Key ID="STR_License_Pilot">
             <Original>Pilot License</Original>
             <Czech>pilotní licence</Czech>

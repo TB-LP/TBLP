@@ -52,4 +52,8 @@ class Lega_xPhoneOnloads
   {
     onLoad = "[] call Lega_fnc_adminMessagesLoad";
   };
+  class RscDisplayTaxiMenu
+  {
+    onLoad = "['taxis\gui', 'RscDisplayTaxiMenu', _this, true, 'RscDisplayTaxiMenu'] call MAV_gui_fnc_openGUI";
+  };
 };

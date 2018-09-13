@@ -52,4 +52,8 @@ class Lega_xPhoneOnloads
   {
     onLoad = "[] call Lega_fnc_adminMessagesLoad";
   };
+  class Lega_xPhone_Call_Taxi
+  {
+    onLoad = "[] call Lega_fnc_adminMessagesLoad";
+  };
 };

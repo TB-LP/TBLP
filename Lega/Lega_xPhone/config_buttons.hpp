@@ -68,7 +68,7 @@ class Lega_XphoneOptions
   class TaxiMenu
   {
     displayName = "TaxiMenu";
-    onCall = "['Lega_xPhone_ContactsMain'] spawn mav_taxi_fnc_showLargeNotification";
+    onCall = "['Lega_xPhone_ContactsMain'] spawn MAV_gui_fnc_openGUI";
     image = "Contacts.paa";
     conditions = "";
   };

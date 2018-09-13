@@ -65,6 +65,13 @@ class Lega_XphoneOptions
     image = "Contacts.paa";
     conditions = "";
   };
+  class TaxiMenu
+  {
+    displayName = "TaxiMenu";
+    onCall = "['Lega_xPhone_ContactsMain'] spawn mav_taxi_fnc_showLargeNotification";
+    image = "Contacts.paa";
+    conditions = "";
+  };
   class Messages
   {
     displayName = "MESSAGES";

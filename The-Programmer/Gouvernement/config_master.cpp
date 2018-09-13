@@ -18,12 +18,12 @@
 #define true 1
 
 class Max_Settings_Gouvernement {
-    default_lang = "fr"; // fr / en / de / es
+    default_lang = "en"; // fr / en / de / es
 
     min_coplevel_for_use_cop_account = 5;
     min_mediclevel_for_use_cop_account = 4;
 
-    phone_numbers_script = true; // true/false
+    phone_numbers_script = false; // true/false
     companies_script_enable = true; // true/false
 
     maximum_companies_taxes = 35; // %

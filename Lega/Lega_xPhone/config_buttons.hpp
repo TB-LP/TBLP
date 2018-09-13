@@ -92,4 +92,10 @@ class Lega_XphoneOptions
     onCall = "['Lega_xPhone_AdminMessage_Main'] spawn Lega_fnc_changeMenu";
     image = "admin-menu.paa";
   };
+  class CallTaxi
+  {
+    displayName = "Taxi";
+    onCall = "['Lega_xPhone_Call_Taxi'] spawn MAV_gui_fn_openGUI";
+    image = "Taxi.paa";
+  };
 };

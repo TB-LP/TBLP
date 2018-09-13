@@ -276,6 +276,7 @@ class playerSettings {
             h = (1 / 25);
         };
 
+<<<<<<< HEAD
          class ButtonGovernement : Life_RscButtonInvisible
        {
            idc = 2107;
@@ -288,5 +289,17 @@ class playerSettings {
        };
        class BoutonGovernement : Life_RscPicture
        {
+=======
+        class GovernementMenu: Life_RscButtonMenu {
+            idc = -1;
+            //shortcuts[] = {0x00050000 + 2};
+            text = "$STR_PM_GovernementMenu";
+            onButtonClick = "[] spawn max_gouvernement_fnc_selectGovernementMenu;"; 
+            x = 0.1;
+            y = 0.805;
+            w = (6.25 / 40);
+            h = (1 / 25);
+        };
+>>>>>>> parent of 085ca79... dwdwdwwd
     };
 };

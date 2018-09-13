@@ -14,6 +14,11 @@ class Maverick_SpeedCameras {
     //speedlimit -> Choose any value you like. In a zone where people should drive 50, make set it to 55 or 60, to catch those speeders!
 	SpeedCameras[] = {
 	  //{{<position>}, <direction>, <speedlimit>},
+
+        //Tanoa//
+		{{10336.7,0.110435},5807.73},
+		{{5826.22,10423.5,0.111078}, 186.741},
+
         {{3605.94,13087.6,0}, 283.865, 20}, //Kavalla Martketplace [Altis]
         {{3777.49,13420.8,0}, 146.733, 65}  //Outside kavalla near the construction site [Altis]
 	};

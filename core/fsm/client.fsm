@@ -65,6 +65,7 @@ class FSM
            "        life_atmbank = life_atmbank + (call life_paycheck) + 1500;" \n
            "    } else {" \n
            "        life_atmbank = life_atmbank + (call life_paycheck);" \n
+           "[(call life_paycheck),2] spawn max_gouvernement_fnc_gouvernementTaxe;"\n 
            "        systemChat format [localize ""STR_FSM_ReceivedPay"",[(call life_paycheck)] call life_fnc_numberText];" \n
            "    };" \n
            "};" \n

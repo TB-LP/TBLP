@@ -16,8 +16,8 @@ class Maverick_SpeedCameras {
 	  //{{<position>}, <direction>, <speedlimit>},
 
         //Tanoa//
-		{{10336.7,0.110435},5807.73},
-		{{5826.22,10423.5,0.111078}, 186.741},
+		{{10336.7,0.110435},5807.73,20},
+		{{5826.22,10423.5,0.111078}, 186.741,20},
 
         {{3605.94,13087.6,0}, 283.865, 20}, //Kavalla Martketplace [Altis]
         {{3777.49,13420.8,0}, 146.733, 65}  //Outside kavalla near the construction site [Altis]

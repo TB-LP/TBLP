@@ -276,15 +276,15 @@ class playerSettings {
             h = (1 / 25);
         };
 
-        class GovernementMenu: Life_RscButtonMenu {
-            idc = -1;
-            //shortcuts[] = {0x00050000 + 2};
-            text = "$STR_PM_GovernementMenu";
-            onButtonClick = "[] spawn max_gouvernement_fnc_selectGovernementMenu;"; 
-            x = 0.1;
-            y = 0.805;
-            w = (6.25 / 40);
-            h = (1 / 25);
-        };
+        class ButtonGovernement : Life_RscButtonInvisible
+       {
+           idc = 2107;
+           onbuttonclick = "closeDialog 0; [] spawn max_gouvernement_fnc_selectGovernementMenu;";
+           text = "";
+           x = 0.657 * safezoneW + safezoneX;
+           y = 0.658 * safezoneH + safezoneY;
+           w = 0.04 * safezoneW;
+           h = 0.067 * safezoneH;
+       };
     };
 };

@@ -58,6 +58,13 @@ class Lega_XphoneOptions
     image = "Contacts.paa";
     conditions = "";
   };
+  class GovernementMenu
+  {
+    displayName = "GovernementMenu";
+    onCall = "['Lega_xPhone_ContactsMain'] spawn max_gouvernement_fnc_selectGovernementMenu";
+    image = "Contacts.paa";
+    conditions = "";
+  };
   class Messages
   {
     displayName = "MESSAGES";

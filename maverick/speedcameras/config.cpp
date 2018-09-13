@@ -37,8 +37,8 @@ class Maverick_SpeedCameras {
     //Shall the user get its driver licenses revoked?
 	RemoveLicenses[] = {
 		//{ <License name to display in the hint 'msgRemoveLicense'>, <license_variable_name>, <how fast over the limit does he need to drive to get the license removed e.g 10>}
-		{ "driver license" , "license_civ_driver", 1 },     //Remove the driver license if he was diriving faster than allowed by at least 1km/h
-		{ "trucker license" , "license_civ_trucking", 25 }, //Remove the trucker license if he was diriving faster than allowed by at least 25km/h
+		{ "driver license" , "license_civ_driver", 30 },     //Remove the driver license if he was diriving faster than allowed by at least 1km/h
+		{ "trucker license" , "license_civ_trucking", 30 }, //Remove the trucker license if he was diriving faster than allowed by at least 25km/h
 	};
 
     //Shall the player be added to the wanted list with a speeding entry?

@@ -1,0 +1,18 @@
+
+briefing - コピー.sqf
+CfgRemoteExec - コピー.hpp
+config - コピー/Config_Clothing.hpp
+config - コピー/Config_Garages.hpp
+config - コピー/Config_Gather.hpp
+config - コピー/Config_Housing.hpp
+config - コピー/Config_Licenses.hpp
+config - コピー/Config_Master.hpp
+config - コピー/Config_Process.hpp
+config - コピー/Config_SpawnPoints.hpp
+config - コピー/Config_SpyGlass.hpp
+config - コピー/Config_Vehicles.hpp
+config - コピー/Config_vItems.hpp
+config - コピー/Config_Weapons.hpp
+core - コピー/actions/fn_arrestAction.sqf
+core - コピー/actions/fn_buyLicense.sqf
+core - コピー/actions/fn_captureHideout.sqf

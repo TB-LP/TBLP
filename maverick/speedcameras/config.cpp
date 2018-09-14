@@ -18,8 +18,8 @@ class Maverick_SpeedCameras {
         //Tanoa//
         
 		
-		{{5825.78,10458.9,0.110928},187.15,30},
-		{{5809.08,10466.8,0.272611},350.391,30},
+		{{5825.78,10458.9,0.110928},187.15,50},
+		{{5809.08,10466.8,0.272611},350.391,50},
 
         {{3605.94,13087.6,0}, 283.865, 20}, //Kavalla Martketplace [Altis]
         {{3777.49,13420.8,0}, 146.733, 65}  //Outside kavalla near the construction site [Altis]
@@ -37,8 +37,8 @@ class Maverick_SpeedCameras {
     //Shall the user get its driver licenses revoked?
 	RemoveLicenses[] = {
 		//{ <License name to display in the hint 'msgRemoveLicense'>, <license_variable_name>, <how fast over the limit does he need to drive to get the license removed e.g 10>}
-		{ "driver license" , "license_civ_driver", 10 },     //Remove the driver license if he was diriving faster than allowed by at least 1km/h
-		{ "trucker license" , "license_civ_trucking", 10 }, //Remove the trucker license if he was diriving faster than allowed by at least 25km/h
+		{ "driver license" , "license_civ_driver", 30 },     //Remove the driver license if he was diriving faster than allowed by at least 1km/h
+		{ "trucker license" , "license_civ_trucking", 30 }, //Remove the trucker license if he was diriving faster than allowed by at least 25km/h
 	};
 
     //Shall the player be added to the wanted list with a speeding entry?
@@ -58,6 +58,6 @@ class Maverick_SpeedCameras {
 		msgInfo                = "制限速度を %1 km/h 超過しました!";
 		msgRemoveLicense 	   = "あなたの %1 が取り消されました!";
 		msgWantedAdd  		   = "あなたに犯罪記録が付きました!";
-		msgSpeedingFee         = "あなたはスピード違反のために %1$ の罰金を科されています!";
+		msgSpeedingFee         = "あなたはスピード違反のために %1$ の罰金を銀行口座から強制徴収致しました";
 	};
 };

@@ -287,15 +287,11 @@ class playerSettings {
         };
 
 
-        class ButtonGovernement : Life_RscButtonInvisible
+        class ButtonGovernement : Life_RscButtonMenu
        {
            idc = 2107;
            onbuttonclick = "closeDialog 0; [] spawn max_gouvernement_fnc_selectGovernementMenu;";
-           text = "";
-           x = 0.657 * safezoneW + safezoneX;
-           y = 0.658 * safezoneH + safezoneY;
-           w = 0.04 * safezoneW;
-           h = 0.067 * safezoneH;
+           
        };
 
     };

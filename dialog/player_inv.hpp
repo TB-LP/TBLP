@@ -276,16 +276,26 @@ class playerSettings {
             h = (1 / 25);
         };
 
+        class ButtonMarket : Life_RscButtonMenu {
+            idc = 3025;
+            text = "Market"; 
+            onButtonClick = "[] spawn life_fnc_openMarketView;";
+            x = 0.26 + (6.25 / 19.8) + (1 / 250 / (safezoneW / safezoneH)); 
+            y = 0.805; 
+            w = (6.25 / 40); 
+            h = (1 / 25); 
+        };
+
 
         class GovernementMenu: Life_RscButtonMenu {
             idc = 2107;
             //shortcuts[] = {0x00050000 + 2};
-            text = "GovernementMenu";
+            text = "";
             onButtonClick = "[] spawn max_gouvernement_fnc_selectGovernementMenu;"; 
-            x = 0.1;
-            y = 0.805;
-            w = (6.25 / 40);
-            h = (1 / 25);
+            x = 0.657 * safezoneW + safezoneX;
+           y = 0.658 * safezoneH + safezoneY;
+           w = 0.04 * safezoneW;
+           h = 0.067 * safezoneH;
         };
 
     };

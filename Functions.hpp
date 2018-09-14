@@ -35,6 +35,23 @@ class Life_Client_Core {
         class welcomeNotification {};
     };
 
+    class Market {
+		file = "core\market";
+		class openMarketView {};
+		class refreshMarketView {};
+		class marketShortView {};
+		class marketBuy {};
+		class marketSell {};
+		class marketGetBuyPrice {};
+		class marketGetSellPrice {};
+		class marketconfiguration {};
+		class marketReset {};
+		class marketChange {};
+		class marketGetRow {};
+		class marketGetPriceRow {};
+		class marketSetPriceRow {};
+	};
+
     class Actions {
         file = "core\actions";
         class arrestAction {};
@@ -218,6 +235,7 @@ class Life_Client_Core {
         class stripDownPlayer {};
         class teleport {};
         class whereAmI {};
+        class randomRound {};
     };
 
     class Gangs {
